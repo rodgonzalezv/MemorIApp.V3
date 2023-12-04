@@ -9,3 +9,4 @@ Instalaciones necesarias
     npm install @capacitor/camera
     npm install @ionic/pwa-elements
     npx cap sync
+    
